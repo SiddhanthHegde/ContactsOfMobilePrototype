@@ -1,0 +1,86 @@
+Starting Phone...
+Available actions:
+Press..
+	0- Shutdown
+	1- Print Contacts
+	2- Add new Contact
+	3- Update existing Contact
+	4- Delete a Contact
+	5- Query if a contact exists
+	6- Print list of Actions
+Enter required Action
+1
+No contacts found
+Enter required Action
+2
+Enter new contact name:
+Bob
+Enter Phone Number: 
+2718347890
+New contact added
+Enter required Action
+2
+Enter new contact name:
+Ross
+Enter Phone Number: 
+9876543210
+New contact added
+Enter required Action
+1
+Contact List:
+1.Bob->2718347890
+2.Ross->9876543210
+Enter required Action
+5
+Enter existing contact name: 
+Bob
+Name: BobPhone number 2718347890
+Enter required Action
+5
+Enter existing contact name: 
+Rob
+Contact not found
+Enter required Action
+3
+Enter existing contact name: 
+Bob
+Enter new contact name
+Rob
+Enter new phone number
+9876543211
+Bob was replaced with Rob
+Successfully updated new contact
+Enter required Action
+6
+Available actions:
+Press..
+	0- Shutdown
+	1- Print Contacts
+	2- Add new Contact
+	3- Update existing Contact
+	4- Delete a Contact
+	5- Query if a contact exists
+	6- Print list of Actions
+Enter required Action
+1
+Contact List:
+1.Rob->9876543211
+2.Ross->9876543210
+Enter required Action
+4
+Enter existing contact name: 
+Bob
+Contact not found
+Enter required Action
+4
+Enter existing contact name: 
+Ross
+Ross was deleted
+Successfully deleted the contact
+Enter required Action
+1
+Contact List:
+1.Rob->9876543211
+Enter required Action
+0
+Shutting down...
