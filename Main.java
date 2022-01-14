@@ -1,5 +1,5 @@
 package in.sid;
-
+//to input input libraries
 import java.util.Scanner;
 
 
